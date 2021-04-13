@@ -5,8 +5,8 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **Learner**
-- Currently Learning **Python**, ** **,**Web Development** And **Machine Learning**
+- I'm **Developer** | **Programmer** | **System Administrato** | **Learner**
+- Currently Learning **Python**, **NodeJS**, **ReactJC**, And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
@@ -23,8 +23,9 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/php.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html.png"/>
 </p>
 
 #### Profile views counter
