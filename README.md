@@ -23,9 +23,11 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/php.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluent/50/000000/visual-studio-2019.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
 </p>
 
 #### Profile views counter
