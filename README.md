@@ -33,5 +33,3 @@
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{cvp97}/count.svg)
 
-
-
