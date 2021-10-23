@@ -6,7 +6,7 @@
 
 
 - I'm **Developer** | **Programmer** | **System Administrato** | **Learner**
-- Currently Learning **Python**, **NodeJS**, **ReactJC**, And **Machine Learning**
+- Currently Learning **Python**, **NodeJS**, **ReactJS**, And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
