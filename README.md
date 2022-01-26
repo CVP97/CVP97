@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **System Administrato** | **Learner**
+- I'm **Developer** | **Programmer** | **System Administrator** | **Learner**
 - Currently Learning **Python**, **NodeJS**, **ReactJS**, And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
