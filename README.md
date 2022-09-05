@@ -1,4 +1,4 @@
-## Hi there, I'm Carlos 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E1F700&lines=Hi+there%2C+I'm+Carlos.)
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
