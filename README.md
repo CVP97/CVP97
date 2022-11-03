@@ -5,8 +5,8 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **System Administrator** | **Learner**
-- Currently Learning **Python**, **NodeJS**, **ReactJS**, And **Machine Learning**
+- I'm **Developer** | **System Administrator** | **Learner**
+- Currently Learning **Python**, **NodeJS** with **ReactJS**, and **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
